@@ -1,0 +1,6 @@
+Dont forget to add the column on the database with default value 0
+if you created the column with another name dont forget to alter on the query ;)
+
+To change what players receive its on the server event "goldengaming:receberprenda", you can set it to give money etc... currently its giving a faggio to owned_vehicles
+
+To change the exports notification name
